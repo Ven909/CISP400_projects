@@ -5,6 +5,7 @@
 // Make code easier to type with "using namespace"
 using namespace sf;
 using namespace std;
+//added this comment on line 8 for windows commit
 
 int main()
 {
